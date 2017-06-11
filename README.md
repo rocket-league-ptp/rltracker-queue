@@ -1,6 +1,6 @@
 # rltracker-queue
 
-A real hack-ish way if limiting the requests to the RLTracker.pro API
+A real hack-ish way of limiting the requests to the RLTracker.pro API
 
 usage:
 ```javascript
